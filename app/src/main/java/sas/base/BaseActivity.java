@@ -1,4 +1,4 @@
-package sas.app.sms.base;
+package sas.base;
 
 import android.app.ActionBar;
 import android.app.Activity;

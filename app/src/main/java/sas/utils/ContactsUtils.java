@@ -1,4 +1,4 @@
-package sas.app.sms.utils;
+package sas.utils;
 
 import android.app.Activity;
 import android.database.Cursor;

@@ -1,4 +1,4 @@
-package sas.app.sms.activity;
+package sas.activity;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -7,7 +7,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.SearchView;
 
-import sas.app.sms.base.BaseActivity;
+import sas.base.BaseActivity;
 import sas.app.sms.R;
 
 

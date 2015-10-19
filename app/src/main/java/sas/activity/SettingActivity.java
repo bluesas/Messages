@@ -1,6 +1,6 @@
-package sas.app.sms.activity;
+package sas.activity;
 
-import sas.app.sms.base.BaseActivity;
+import sas.base.BaseActivity;
 
 /**
  * @author Wei Runqi

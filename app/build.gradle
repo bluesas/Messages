@@ -5,7 +5,7 @@ android {
     buildToolsVersion "22.0.1"
 
     defaultConfig {
-        applicationId "sas.app.message.myapplication"
+        applicationId "sas.app.messages"
         minSdkVersion 21
         targetSdkVersion 22
         versionCode 1

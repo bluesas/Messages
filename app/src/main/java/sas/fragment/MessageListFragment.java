@@ -1,4 +1,4 @@
-package sas.app.sms.fragment;
+package sas.fragment;
 
 import android.content.Intent;
 import android.database.Cursor;
@@ -13,10 +13,10 @@ import android.widget.BaseAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import sas.app.sms.base.BaseFragment;
+import sas.base.BaseFragment;
 import sas.app.sms.R;
-import sas.app.sms.utils.ContactsUtils;
-import sas.app.sms.provider.SmsProvider;
+import sas.utils.ContactsUtils;
+import sas.provider.SmsProvider;
 
 
 /**
